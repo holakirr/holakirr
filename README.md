@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Kirill Petunin, FrontEnd Engineer
-- 🌱 I’m currently working on Grid Dynamics learning GoLang
+- 👋 Hi, I’m Kirill Petunin
+- 🌱 I’m currently working on Grid Dynamics as Software Engineer
+- 📖 Learning GoLang and Python
 
 <!---
 holakirr/holakirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
